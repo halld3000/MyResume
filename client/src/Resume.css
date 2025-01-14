@@ -3,9 +3,9 @@
     margin: 0 auto;
     max-width: 800px;
     line-height: 1.6;
-    color: #333;
+    color: #070707;
     padding: 20px;
-    background-color: #f5ffef;
+    background-color: #adec36;
     }
     .header {
     text-align: center;
@@ -14,18 +14,18 @@
     .header h1 {
     margin: 0;
     font-size: 2.5rem;
-    color: #1a4d2e;
+    color: #070707;
     }
     .header p {
     font-size: 1rem;
-    color: #555;
+    color: #080202;
     }
     .section {
     margin-bottom: 20px;
     }
     .section h2 {
     font-size: 1.5rem;
-    color: #1a4d2e;
+    color: #0f0f0f;
     margin-bottom: 10px;
     }
     .education h3,
@@ -33,7 +33,7 @@
     .projects h3 {
     margin: 0;
     font-size: 1.2rem;
-    color: #2e8b57;
+    color: #030303;
     }
     .education p,
     .projects p {
@@ -55,7 +55,7 @@
     margin-bottom: 5px;
     }
     .projects a {
-    color: #007acc;
+    color: #15dde4;
     text-decoration: none;
     }
     .projects a:hover {

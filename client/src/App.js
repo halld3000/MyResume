@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import MyResume from './MyResume';
+import Resume from './Resume';
 
 function App() {
   return (
     <div className="App">
-      <MyResume/>
+      <Resume/>
     </div>
   );
 }
