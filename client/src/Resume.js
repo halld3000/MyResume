@@ -64,7 +64,7 @@ const Resume = () => {
                     <p>
                         Source code:{""}
                         <a
-                          href="https://github.com/halld3000/bookstore"
+                          href="https://ideal-fortnight-wjr7696jj6fr66-3002.app.github.dev/"
                           target="_blank"
                           rel="nooperner noreferrer"
                          >
